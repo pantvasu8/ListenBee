@@ -18,6 +18,7 @@ Check out the live demo: [Musicly Live](https://pantvasu8-musicly.netlify.app/)
 ### Development Mode Limitation
 
 In development mode, Spotify restricts the number of users who can access the app. You can add a maximum of 25 users during this phase. If you plan to onboard more users, consider submitting a quota extension request to Spotify.
+
 ![image](https://github.com/pantvasu8/MusicLy/assets/96621003/cb3592fe-e5e1-4e70-a395-2723d343f3f8)
 
 ## Features
